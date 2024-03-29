@@ -1,5 +1,9 @@
 import { NgModule } from '@angular/core';
 import { CommonModule } from '@angular/common';
+import {MatListModule} from '@angular/material/list';
+import {MatDividerModule} from '@angular/material/divider';
+
+
 
 
 
@@ -7,10 +11,12 @@ import { CommonModule } from '@angular/common';
   declarations: [],
   imports: [
     CommonModule,
-    
+    MatListModule,
+    MatDividerModule
   ],
   exports:[
-
+    MatListModule,
+    MatDividerModule
   ],
 })
 export class AngularMaterialModule { }
