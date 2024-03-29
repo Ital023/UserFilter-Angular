@@ -9,6 +9,6 @@ import { UsersList } from './data/users-list';
 })
 export class AppComponent {
 
-  userSelected: IUser = UsersList[1];
+  userSelected: IUser = UsersList[0];
 
 }
