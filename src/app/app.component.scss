@@ -22,3 +22,15 @@
     width: 30%;
     max-height: 100vh;
 }
+
+@media (max-width: 1260px){
+    .container{
+        flex-direction: column;
+    }
+    .left-container{
+        width: 100%;
+    }
+    .right-div{
+        width: 100%;
+    }
+}
