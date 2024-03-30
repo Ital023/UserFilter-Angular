@@ -3,6 +3,7 @@ import { CommonModule } from '@angular/common';
 import { PhonePipe } from './phone.pipe';
 import { AddressPipe } from './address.pipe';
 import { StatusPipe } from './status.pipe';
+import { DashIfEmptyPipe } from './dash-if-empty.pipe';
 
 
 
@@ -10,7 +11,8 @@ import { StatusPipe } from './status.pipe';
   declarations: [
     PhonePipe,
     AddressPipe,
-    StatusPipe
+    StatusPipe,
+    DashIfEmptyPipe
   ],
   imports: [
     CommonModule
@@ -18,7 +20,8 @@ import { StatusPipe } from './status.pipe';
   exports:[
     PhonePipe,
     AddressPipe,
-    StatusPipe
+    StatusPipe,
+    DashIfEmptyPipe
   ]
 })
 export class PipesModule { }
