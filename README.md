@@ -1,27 +1,34 @@
-# UserFilterProject
+# UserFilter - Angular
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.2.3.
+## 💻 Prévia do projeto
+<img src="https://avatars.githubusercontent.com/u/113559117?v=4" width="100px;" alt="Foto do Ítalo Miranda no GitHub"/><br>
 
-## Development server
+## 🔗 Link de acesso
+https://cards-project-eight.vercel.app/
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
-## Code scaffolding
+## :rocket: Sobre o projeto
+No projeto Angular concluído, desenvolvi um componente "card" e um "button", aplicando conceitos-chave como binding ```(Property, Class, Event)``` binding, diretivas ```@Input e @Output```, e modularizei o código com módulos. Utilizei ```SCSS``` para estilização, proporcionando um design flexível e modular. O resultado é um projeto robusto e eficiente, pronto para integração em qualquer aplicação Angular.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
-## Build
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
 
-## Running unit tests
+## 🤝 Colaboradores
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+Agradecemos às seguintes pessoas que contribuíram para este projeto:
 
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Ital023" title="Github do Ítalo Miranda">
+        <img src="https://avatars.githubusercontent.com/u/113559117?v=4" width="100px;" alt="Foto do Ítalo Miranda no GitHub"/><br>
+        <sub>
+          <b>Ítalo Miranda</b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+</table>
